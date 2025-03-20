@@ -1,0 +1,1 @@
+ReferenceError: requestAnimationFrame is not defined at game:881 game:885
